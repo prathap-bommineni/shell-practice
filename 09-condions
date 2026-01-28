@@ -1,6 +1,6 @@
 #!/bin/bash
 
-name="Alice"
+name="prathap
 
 if [ "$name" == "Alice" ]; then
     echo "Hello Alice!"
