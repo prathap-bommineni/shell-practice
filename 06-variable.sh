@@ -1,3 +1,3 @@
 #!/bin/bash
 TIMESTAMP=$(date)
-echo "TIMESTAMP"
+echo "Script executed at: $TIMESTAMP"
