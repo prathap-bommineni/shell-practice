@@ -1,11 +1,11 @@
 #!/bin/bash
-#exmaple varible 
-num =12
 
-#if condition 
+# Example variable
+num=10
 
-if [$num -gt 6]; then
-echo "Number is greater then 5"
-else 
-echo "Number is 5 or less"
+# If condition
+if [ $num -gt 5 ]; then
+    echo "Number is greater than 5"
+else
+    echo "Number is 5 or less"
 fi
